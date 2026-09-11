@@ -243,4 +243,4 @@ This repository serves as the official landing page for TeamViewer. The software
 **Get the most recent version of TeamViewer today!**
 
 ---
-**Last updated:** 2026-09-11 18:12:36 UTC
+**Last updated:** 2026-09-11 21:33:19 UTC
